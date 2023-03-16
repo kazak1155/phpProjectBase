@@ -1,0 +1,17 @@
+{
+    "name": "andreyv/php-project-base",
+    "description": "base for project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "AndreyV",
+            "email": "kazakmt4@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
